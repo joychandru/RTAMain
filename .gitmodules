@@ -1,3 +1,4 @@
 [submodule "RTALibrary"]
 	path = RTALibrary
 	url = https://github.com/joychandru/RTALibrary.git
+	branch = master
